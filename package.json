@@ -1,0 +1,29 @@
+{
+  "name": "onlinefood",
+  "version": "1.0.0",
+  "description": "nodejs api for networked restaurant system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calebfonyuy/OnlineFood.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "restaurant"
+  ],
+  "author": "fonyuyca@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calebfonyuy/OnlineFood/issues"
+  },
+  "homepage": "https://github.com/Calebfonyuy/OnlineFood#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11"
+  }
+}
